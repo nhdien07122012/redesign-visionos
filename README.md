@@ -6,8 +6,8 @@
 
 # redesign-visionos
 Cập nhật thêm giao diện cho Theme VisonOS:
-- #Icon cài đặt hỗ trợ Snowboard (Coming Soon)
-- #IconApps bản địa hóa quốc gia VietNam (Update)
-- #PassCode ngoài màn hình khóa (Coming Soon)
-- #Badge ngoài màn hình khóa (Coming Soon)
+- #Icon cài đặt hỗ trợ Snowboard (OK)
+- #IconApps bản địa hóa quốc gia VietNam (58 ứng dụng...)
+- #PassCode ngoài màn hình khóa (OK)
+- #Badge ngoài màn hình chính (OK)
 - #UI hỗ trợ cho Snowboard (Coming Soon)
